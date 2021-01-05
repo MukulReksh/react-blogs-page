@@ -1,0 +1,46 @@
+.post-details {
+  margin: 20px;
+  padding: 10px;
+  width: 55%;
+  margin-left: 10%;
+}
+.post-details img {
+  width: 800px;
+  height: 400px;
+}
+
+.post-card {
+  padding: 20px;
+  position: absolute;
+  right: 40px;
+  top: 150px;
+  width: 300px;
+  height: 800px;
+  background-color: blanchedalmond;
+}
+
+.post-card h3 {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.post-card img {
+  width: 250px;
+  height: 250px;
+  margin-top: 10px;
+  margin-left: 5px;
+  box-shadow: -10px -10px 15px black;
+}
+
+.post-card p {
+  text-align: justify;
+  padding: 10px;
+}
+.post-input {
+  margin: 10px 0;
+  height: 50px;
+}
+.button {
+  width: 100%;
+  height: 50px;
+}

@@ -1,0 +1,10 @@
+.blogs-card {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 25px;
+  margin: 25px;
+}
+
+.blogs-card :hover {
+  opacity: 0.8;
+}
